@@ -1,0 +1,11 @@
+.env
+.rclone.conf
+.gdrive-sa.json
+.phone-ssh.key
+.tailscale-state/
+.tailscaled.sock
+.syncthing/
+logs/
+*.log
+*.jsonl
+*.tar.gz
